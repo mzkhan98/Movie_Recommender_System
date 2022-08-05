@@ -2,8 +2,8 @@
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
 ## Authors
