@@ -14,7 +14,7 @@
 Recommendation Systems are a a critical component for many major tech companies such as Spotify and Netflix; since recommended content that is relevent to user can maximise engagement and time spent on the platform.
 
 This project will build a basic content based movie recommender system using cosine similarity. 
-[Image](assets/bond.png)
+![Image](assets/bond.png)
 
 ## Data Source 
 - [Kaggle TMDB 5000 Movie Data Set](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
